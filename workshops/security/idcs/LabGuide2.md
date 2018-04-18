@@ -19,5 +19,5 @@ In this lab, you will integrate external application for SSO using SAML.
 
 ## Contents
 
-- [Salesforce SSO Integration - SAML](contents/LabGuide2-IA-SAML.md)
+- [Salesforce SSO Integration - SAML](LabGuide2-IA-SAML.md)
 
